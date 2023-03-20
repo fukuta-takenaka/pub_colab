@@ -8,4 +8,4 @@
 
 # 使い方
 - 上のリンクをクリック
-- 「Opn in Colab」をクリック
+- 「Open in Colab」をクリック
